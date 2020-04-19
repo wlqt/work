@@ -35,3 +35,5 @@ fields:
   config:
     color_format: Hex
   label: Foreground color
+pages:
+- projects/allow-me-to-introduce-myself.md

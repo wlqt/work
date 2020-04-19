@@ -4,5 +4,6 @@
   "site_name": "WLQT.work",
   "site_description": "Webconsultant",
   "hero_title": "Van websites tot portofolio.",
-  "hero_subtitle": "Hallo, mijn naam is Tobias. Ik ben uw nieuwe web consultant.<br><img src=\"/uploads/tobias-frankrijk.jpg\">"
+  "hero_subtitle": "Hallo, mijn naam is Tobias. Ik ben uw nieuwe web consultant.<br><img src=\"/uploads/tobias-frankrijk.jpg\">",
+  "on_or_off": false
 }

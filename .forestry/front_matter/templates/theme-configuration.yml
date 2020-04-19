@@ -30,5 +30,8 @@ fields:
 - type: boolean
   name: dark_mode
   label: Dark mode
+- name: on_or_off
+  type: boolean
+  label: On or off
 pages:
 - data/theme.json
